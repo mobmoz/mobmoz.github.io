@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b682d0-9ba0-4abb-a2bd-110bc2c7dba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/font-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/lined-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/lined-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/lined-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/lined-icons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tf-logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="191">
+              <caret line="39" column="62" lean-forward="true" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -82,6 +67,7 @@
       <find>favi</find>
       <find>img</find>
       <find>demos/business/images/</find>
+      <find>bgt</find>
     </findStrings>
     <replaceStrings>
       <replace>images/</replace>
@@ -159,9 +145,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\life\WebSites\mobmoz.github.io\css" />
       <recent name="D:\life\WebSites\mobmoz.github.io\images" />
       <recent name="D:\life\WebSites\mobmoz.github.io\js" />
-      <recent name="D:\life\WebSites\mobmoz.github.io\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,12 +174,12 @@
       <updated>1555749516088</updated>
       <workItem from="1555749518020" duration="1976000" />
       <workItem from="1555797353170" duration="7491000" />
-      <workItem from="1555828492393" duration="1941000" />
+      <workItem from="1555828492393" duration="2568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11408000" />
+    <option name="totallyTimeSpent" value="12035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -320,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="191">
+          <caret line="39" column="62" lean-forward="true" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
