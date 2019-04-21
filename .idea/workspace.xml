@@ -2,20 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b682d0-9ba0-4abb-a2bd-110bc2c7dba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/business.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/border-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/border.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carousel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carousel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carousel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/amazon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/jetblue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/nat-geo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients/zillow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/featured/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/featured/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/featured/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/24help.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/barcode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/buy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/doc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/dropbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/offers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/piggy-bank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-dark@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mouse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/5-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tf-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg03.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +68,49 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+            <state relative-caret-position="143">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#9915#9920#0" expanded="true" />
+                <element signature="e#9950#9955#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#17256#17262#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#29773#29778#0" expanded="true" />
+                <element signature="e#29835#29840#0" expanded="true" />
+                <element signature="e#32172#32177#0" expanded="true" />
+                <element signature="e#32749#32754#0" expanded="true" />
+                <element signature="e#33355#33360#0" expanded="true" />
+                <element signature="e#34000#34005#0" expanded="true" />
+                <element signature="e#34055#34060#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#35959#35967#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#h5#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +119,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://F:/Hobby/themeforest-9228123-canvas-the-multipurpose-html5-template/Package-HTML/HTML/demo-business.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="35" />
+            <state relative-caret-position="123">
+              <caret line="42" column="23" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="23" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +133,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>favi</find>
+      <find>img</find>
+      <find>demos/business/images/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>images/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,7 +189,7 @@
             <path>
               <item name="mobmoz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobmoz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobmoz.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -120,13 +205,15 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\life\WebSites\mobmoz.github.io\images" />
+      <recent name="D:\life\WebSites\mobmoz.github.io\js" />
       <recent name="D:\life\WebSites\mobmoz.github.io\css" />
     </key>
   </component>
@@ -153,12 +240,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555749516088</updated>
       <workItem from="1555749518020" duration="1976000" />
-      <workItem from="1555797353170" duration="5022000" />
+      <workItem from="1555797353170" duration="6327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6998000" />
+    <option name="totallyTimeSpent" value="8303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -184,6 +271,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13842663" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -261,21 +369,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://F:/Hobby/themeforest-9228123-canvas-the-multipurpose-html5-template/Package-HTML/HTML/demo-business.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="35" />
+        <state relative-caret-position="123">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        <state relative-caret-position="143">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#9915#9920#0" expanded="true" />
+            <element signature="e#9950#9955#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17256#17262#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#29773#29778#0" expanded="true" />
+            <element signature="e#29835#29840#0" expanded="true" />
+            <element signature="e#32172#32177#0" expanded="true" />
+            <element signature="e#32749#32754#0" expanded="true" />
+            <element signature="e#33355#33360#0" expanded="true" />
+            <element signature="e#34000#34005#0" expanded="true" />
+            <element signature="e#34055#34060#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#35959#35967#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#h5#0;n#div#1;n#div#12;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
